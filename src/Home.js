@@ -40,7 +40,7 @@ function Home() {
             <b>Disbox</b>
           </h1>
           <h1 style={{ fontSize: "2.5rem" }} className="">
-            Free, fast, unlimited cloud storage.
+            Free and unlimited storage from Discord.
           </h1>
           <div className='m-5'>
             <Button style={{ fontSize: "2.5rem" }} variant="primary" onClick={() => { navigate("/setup") }}><b>Start using</b></Button>
