@@ -1,7 +1,7 @@
 /*global chrome*/
 import { sha256 } from 'js-sha256';
 
-const SERVER_URL = 'https://disboxserver.azurewebsites.net';
+const SERVER_URL = 'https://darkmagentathornyprocesses.getgoodhaha.repl.co';
 export const FILE_DELIMITER = '/';
 const FILE_CHUNK_SIZE = 25 * 1024 * 1023 // Almost 25MB
 
